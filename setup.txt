@@ -1,0 +1,8 @@
+Install tesseract using conda, make sure to do this prior to downloading pytesseract. Use below line in conda env to install. Once installed run pip install -r req2.txt in terminal still in conda env. 
+
+conda install -c conda-forge tesseract
+
+(https://github.com/UB-Mannheim/tesseract/wiki)
+
+
+go to this link https://poppler.freedesktop.org/. and download poppler. copy doppler directory path to system path. 
